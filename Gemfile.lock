@@ -6,7 +6,7 @@ GEM
     mustermann (1.0.3)
     nexmo (5.5.0)
       jwt (~> 2)
-    rack (2.0.6)
+    rack (2.2.3)
     rack-protection (2.0.5)
       rack
     sinatra (2.0.5)
